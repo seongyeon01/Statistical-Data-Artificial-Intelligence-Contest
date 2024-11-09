@@ -1,4 +1,4 @@
-# Ground-Surface-Temperature-Prediction-using-CatBoost.md
+# CatBoost 알고리즘을 이용한 지면/지상 온도 예측
 
 🏆 **2022 기상청 빅데이터 콘테스트 지면/지상 산출기술 부문 최우수상 수상**
 
